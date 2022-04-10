@@ -1,0 +1,11 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml
+		INJECTED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\works\Android_cv\project\MyOpenCVDemo\OpenCVLibrary430\src\main\AndroidManifest.xml:2:11-69
